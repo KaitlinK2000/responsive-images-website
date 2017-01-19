@@ -1,0 +1,9 @@
+.sunset {
+	display: flex;
+	justify-content: flex-start;
+}
+
+.text {
+	display:flex;
+	justify-content: flex-end;
+}
